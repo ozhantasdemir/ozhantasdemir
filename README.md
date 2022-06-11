@@ -1,3 +1,11 @@
+<h3 align="center">
+Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+</h3>
+
+<h2 align="center">
+I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+</h2> 
+
 ## Hey 👋, I'm Özhan Taşdemir
 <a href="https://www.linkedin.com/in/ozhantasdemir/"><img align="left” src="https://raw.githubusercontent.com/ozhantasdemir/readme/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
   

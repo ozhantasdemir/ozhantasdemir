@@ -8,9 +8,9 @@ I'm a Computer Science Student 📚, Machine Learning Intern 💻, and Music Pro
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ozhantasdemir/"><img align="center" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/linkedin.svg" height='32px'/></a>
-<a href="https://www.instagram.com/ozhantasdemir/"><img align="center" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/instagram.svg" height='32px'/></a>
-<a href="https://open.spotify.com/user/ozhantasdemir?si=888a3610d71c4e49"><img align="center" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/spotify.svg" height='32px'/></a>
+<a href="https://www.linkedin.com/in/ozhantasdemir/"><img align="center" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/linkedin.svg" height='48px'/></a>
+<a href="https://www.instagram.com/ozhantasdemir/"><img align="center" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/instagram.svg" height='48px'/></a>
+<a href="https://open.spotify.com/user/ozhantasdemir?si=888a3610d71c4e49"><img align="center" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/spotify.svg" height='48px'/></a>
 </div>
   
  <br/>
@@ -33,7 +33,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/python.svg"></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="64px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/python.svg"></a>
 
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/java.svg"></a>
 

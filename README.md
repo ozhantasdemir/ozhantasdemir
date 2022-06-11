@@ -10,7 +10,6 @@ I'm a Computer Science Student 📚, Machine Learning Intern 💻, and Music Pro
 
 <a href="https://www.linkedin.com/in/ozhantasdemir/"><img align="center" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/linkedin.svg" height='48px'/></a>
 <a href="https://www.instagram.com/ozhantasdemir/"><img align="center" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/instagram.svg" height='48px'/></a>
-<a href="https://open.spotify.com/user/ozhantasdemir?si=888a3610d71c4e49"><img align="center" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/spotify.svg" height='48px'/></a>
 </div>
   
 

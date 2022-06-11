@@ -3,17 +3,19 @@ Hi there, I'm Özhan</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Computer Science Student 📚, Machine Learning Inter 💻, and Music Producer 🎹!
+I'm a Computer Science Student 📚, Machine Learning Intern 💻, and Music Producer 🎹!
 </h2> 
 
-## Hey 👋, I'm Özhan Taşdemir
+
 <a href="https://www.linkedin.com/in/ozhantasdemir/"><img align="left” src="https://raw.githubusercontent.com/ozhantasdemir/readme/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
   
 <a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
   
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/Tensorflow_logo.svg" height='18px'/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+  
+  
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/linkedin.svg" height='18px'/></a>
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/instagram.svg" height='18px'/></a>
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/spotify.svg" height='18px'/></a>
 
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 

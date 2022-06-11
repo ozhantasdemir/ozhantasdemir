@@ -52,6 +52,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 <a href="https://opencv.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/opencv.svg" alt="OpenCV" height="64px"/> </a> 
 
+<a href="https://jupyter.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/jupyter.svg" alt="Jupyter Notebook" height="64px"/> </a> 
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="left" alt="HTML" height ="64px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/html.svg"></a>
 
 
@@ -63,6 +65,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="64px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/react.svg"></a>
 
+<a href="https://mysql.com/" target="_blank"> <img align="left" alt="MySQL" height ="64px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/mysql.svg"></a>
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/git-scm.svg" align="left" alt="git" height='64px'/> </a>
 

@@ -21,7 +21,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/img.svg" width="400px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/img.svg" width="300px"/>
   
 ### 🧐 More About Me:
 
@@ -33,6 +33,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 📧 &nbsp; Contact with me via ozhantasdemir@gmail.com
 - 💬 &nbsp; Ask me about anything tech or music related, I am happy to help;
 
+<br>
 <br>
 
 ### 🔨 Languages and Tools:

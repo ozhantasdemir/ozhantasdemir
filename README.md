@@ -34,7 +34,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 💬 &nbsp; Ask me about anything tech or music related, I am happy to help;
 
 <br>
-<br>
 
 ### 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="64px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/python.svg"></a>

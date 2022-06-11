@@ -19,11 +19,11 @@ I'm a Computer Science Student 📚, Machine Learning Intern 💻, and Music Pro
 
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that, I am interested in music production. 👨🏻‍💻. I'm currently into Machine Learning 🕸️.
 <br/>
-<br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/img.svg" width="300px"/>
   
 ### 🧐 More About Me:
+<br/>
 
 - 👨‍💻 &nbsp; I’m currently working at **IND Software** as a machine learning intern
 - 🌱 &nbsp; I’m currently learning React; 

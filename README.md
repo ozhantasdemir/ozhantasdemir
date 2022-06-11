@@ -40,7 +40,11 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="64px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/java.svg"></a>
 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="64px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/c++.svg"></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="C++" height ="64px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/c++.svg"></a>
+
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/numpy.svg" alt="NumPy" height="64px"/> </a> 
+
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/pandas.svg" alt="pandas" height="64px"/> </a> 
 
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/pytorch.svg" alt="pytorch" height="64px"/> </a> 
 
@@ -50,6 +54,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/scikit.svg" alt="tensorflow" height="64px"/> </a> 
 
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="64px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/mathplotlib.svg"> </a>
+
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/opencv.svg" alt="OpenCV" height="64px"/> </a> 
 
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="64px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/html.svg"></a>
 

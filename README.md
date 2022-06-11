@@ -32,43 +32,43 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="64px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/python.svg"></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="72px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/python.svg"></a>
 
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="64px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/java.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="72px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/java.svg"></a>
 
-<a href="https://www.cplusplus.org" target="_blank"><img align="left" alt="C++" height ="64px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/c++.svg"></a>
+<a href="https://www.cplusplus.org" target="_blank"><img align="left" alt="C++" height ="72px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/c++.svg"></a>
 
-<a href="https://numpy.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/numpy.svg" alt="NumPy" height="64px"/> </a> 
+<a href="https://numpy.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/numpy.svg" alt="NumPy" height="72px"/> </a> 
 
-<a href="https://pandas.pydata.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/pandas.svg" alt="pandas" height="64px"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/pandas.svg" alt="pandas" height="72px"/> </a> 
 
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/pytorch.svg" alt="pytorch" height="64px"/> </a> 
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/pytorch.svg" alt="pytorch" height="72px"/> </a> 
 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/tensorflow.svg" alt="tensorflow" height="64px"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/tensorflow.svg" alt="tensorflow" height="72px"/> </a> 
 
-<a href="https://www.scikit-learn.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/scikit.svg" alt="scikit-learn" height="64px"/> </a> 
+<a href="https://www.scikit-learn.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/scikit.svg" alt="scikit-learn" height="72px"/> </a> 
 
-<a href="https://developer.mathplotlib.com" target="_blank"> <img align="left" alt="mathplotlib" height ="64px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/mathplotlib.svg"> </a>
+<a href="https://developer.mathplotlib.com" target="_blank"> <img align="left" alt="mathplotlib" height ="72px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/mathplotlib.svg"> </a>
 
-<a href="https://opencv.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/opencv.svg" alt="OpenCV" height="64px"/> </a> 
+<a href="https://opencv.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/opencv.svg" alt="OpenCV" height="72px"/> </a> 
 
-<a href="https://jupyter.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/jupyter.svg" alt="Jupyter Notebook" height="64px"/> </a> 
+<a href="https://jupyter.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/jupyter.svg" alt="Jupyter Notebook" height="72px"/> </a> 
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="left" alt="HTML" height ="64px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/html.svg"></a>
-
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="left" alt="CSS" height ="64px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/css.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="left" alt="HTML" height ="72px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/html.svg"></a>
 
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="64px"  src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/javascript.svg"> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="left" alt="CSS" height ="72px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/css.svg"></a>
 
 
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="64px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/react.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="72px"  src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/javascript.svg"> </a>
 
-<a href="https://mysql.com/" target="_blank"> <img align="left" alt="MySQL" height ="64px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/mysql.svg"></a>
 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/git-scm.svg" align="left" alt="git" height='64px'/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="72px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/react.svg"></a>
 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/figma.svg" alt="figma" height='64px'/> </a>
+<a href="https://mysql.com/" target="_blank"> <img align="left" alt="MySQL" height ="72px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/mysql.svg"></a>
+
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/git-scm.svg" align="left" alt="git" height='72px'/> </a>
+
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/figma.svg" alt="figma" height='72px'/> </a>
 
 <br>

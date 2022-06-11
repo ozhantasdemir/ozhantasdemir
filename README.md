@@ -52,6 +52,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="64px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/html.svg"></a>
 
+<br>
+
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="64px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/css.svg"></a>
 
 

@@ -1,9 +1,9 @@
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, I'm Özhan</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a Computer Science Student 📚, Machine Learning Inter 💻, and Music Producer 🎹!
 </h2> 
 
 ## Hey 👋, I'm Özhan Taşdemir

@@ -6,7 +6,7 @@ Hi there, I'm Özhan</a> 👋
 I'm a Computer Science Student 📚, Machine Learning Intern 💻, and Music Producer 🎹!
 </h2> 
 
-<div align="center">🎛
+<div align="center">
 
 <a href="https://www.linkedin.com/in/ozhantasdemir/"><img align="center" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/linkedin.svg" height='48px'/></a>
 <a href="https://www.instagram.com/ozhantasdemir/"><img align="center" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/instagram.svg" height='48px'/></a>

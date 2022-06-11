@@ -9,7 +9,7 @@ I'm a Computer Science Student 📚, Machine Learning Intern 💻, and Music Pro
 <a href="https://www.linkedin.com/in/ozhantasdemir/"><img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/linkedin.svg" height='25px'/></a>
 <a href="https://www.instagram.com/ozhantasdemir/"><img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/instagram.svg" height='25px'/></a>
 <a href="https://open.spotify.com/user/ozhantasdemir?si=888a3610d71c4e49"><img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/spotify.svg" height='25px'/></a>
-
+<br/>
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>

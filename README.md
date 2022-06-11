@@ -21,11 +21,11 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/img.svg" width="260px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/img.svg" width="400px"/>
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working at **IND Software** as a machine learning intern
+- 👨‍💻 &nbsp; I’m currently working at **IND Software** as a machine learning intern
 - 🌱 &nbsp; I’m currently learning React; 
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 🎵 &nbsp; I'm working on my first song in my spare time

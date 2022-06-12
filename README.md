@@ -3,7 +3,7 @@ Hi there, I'm Özhan</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Computer Science Student 📚 Machine Learning Intern 💻 and Music Producer 🎹!
+I'm a Computer Science Student📚 Machine Learning Intern💻 and Music Producer🎹!
 </h2> 
 
 <div align="center">

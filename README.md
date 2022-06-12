@@ -16,7 +16,7 @@ I'm a Computer Science Student📚 Machine Learning Intern💻 and Music Produce
 I'm a passionate learner who's always willing to learn and work across technologies and domains 🔍. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that, I am interested in music production 🎛️. I'm currently into Machine Learning 🤖.
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/stack.gif" width="280px" height: auto/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/stack.gif" width="200px" height: auto/>
   
 ### 🧐 More About Me:
 <br/>

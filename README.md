@@ -23,8 +23,9 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 - 👨‍💻 &nbsp; I’m currently working at **IND Software** as a machine learning intern
 - 🌱 &nbsp; I’m currently learning React; 
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made this gif👉
 - 🎵 &nbsp; I'm working on my first song in my spare time
+- 🎙️ &nbsp; I'm looking for a bandmate who likes 80s style synth-pop
 - 📫 &nbsp; Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ozhantasdemir/)
 - 📧 &nbsp; Contact with me via ozhantasdemir@gmail.com
 - 💬 &nbsp; Ask me about anything tech or music related, I am happy to help;

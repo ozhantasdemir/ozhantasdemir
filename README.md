@@ -13,7 +13,7 @@ I'm a Computer Science Student📚 DevOps Intern💻 and Music Producer🎹!
 </div>
   
 
-I'm a passionate learner who's always willing to learn and work across technologies and domains 🔍. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that, I am interested in music production 🎛️. I'm currently into Machine Learning 🤖.
+I'm a passionate learner who's always willing to learn and work across technologies and domains 🔍. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that, I am interested in music production 🎛️. I'm currently into Machine Learning, DevOps and MLOps 🤖.
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/stack.gif" width="300px" height: auto/>

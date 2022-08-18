@@ -21,8 +21,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ### 🧐 More About Me:
 <br/>
 
-- 👨‍💻 &nbsp; I’m currently working at **IND Software** as a machine learning intern
-- 🌱 &nbsp; I’m currently learning React; 
+- 👨‍💻 &nbsp; I’m currently working at **PTT AŞ** as a DevOps intern
+- 🌱 &nbsp; I’m currently learning MLOps; 
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made this gif👉
 - 🎵 &nbsp; I'm working on my first song in my spare time
 - 🎙️ &nbsp; I'm looking for a bandmate who likes 80s style synth-pop

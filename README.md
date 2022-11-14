@@ -22,7 +22,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <br/>
 
 - 👨‍💻 &nbsp; I’m currently working at **Turkish Aerospace** as a Engineering Intern
-- 🖥️ &nbsp; I am currently a member of the Microsoft Imagine Program
+- 🖥️ &nbsp; I am currently a member of the **Microsoft Imagine** Program
 - 🌱 &nbsp; I’m currently learning MLOps; 
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made this gif👉
 - 🎵 &nbsp; I'm interested in music production

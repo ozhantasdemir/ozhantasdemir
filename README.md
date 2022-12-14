@@ -56,6 +56,12 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 <a href="https://jupyter.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/jupyter.svg" alt="Jupyter Notebook" height="66px"/> </a> 
 
+<a href="https://www.docker.com" target="_blank"> <img align="left" alt="Docker" height ="66px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/docker.svg"> </a>
+
+<a href="https://azure.microsoft.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/azure.svg" alt="Azure" height="66px"/> </a> 
+
+<a href="https://about.gitlab.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/gitlab.svg" alt="GitLab" height="66px"/> </a> 
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="left" alt="HTML" height ="66px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/html.svg"></a>
 
 

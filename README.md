@@ -3,7 +3,7 @@ Hi there, I'm Özhan</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Computer Science Student📚 Engineering Intern💻 Music Producer🎹!
+I'm a Computer Science Student📚 AI Engineer💻 Music Producer🎹!
 </h2> 
 
 <div align="center">
@@ -21,7 +21,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ### 🧐 More About Me:
 <br/>
 
-- 👨‍💻 &nbsp; I’m currently working at **Turkish Aerospace** as a Engineering Intern
+- 👨‍💻 &nbsp; I’m currently working at **Turkish Aerospace** as an AI Engineer
 - 🖥️ &nbsp; I am currently a member of the **Microsoft Imagine** Program
 - 🌱 &nbsp; I’m currently learning MLOps; 
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made this gif👉

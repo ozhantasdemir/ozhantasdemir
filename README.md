@@ -21,12 +21,11 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ### 🧐 More About Me:
 <br/>
 
-- 👨‍💻 &nbsp; I’m currently working at **Turkish Aerospace** as an AI Engineer
+- 👨‍💻 &nbsp; I’m currently working at **Turkish Aerospace** as an ML Engineer
 - 🖥️ &nbsp; I am currently a member of the **Microsoft Imagine** Program
 - 🌱 &nbsp; I’m currently learning MLOps; 
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made this gif👉
 - 🎵 &nbsp; I'm interested in music production
-- 🎙️ &nbsp; I'm looking for a bandmate who likes 80s style synth-pop
 - 📫 &nbsp; Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ozhantasdemir/)
 - 📧 &nbsp; Contact with me via ozhantasdemir@gmail.com
 - 💬 &nbsp; Ask me about anything tech or music related, I am happy to help;
@@ -61,19 +60,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <a href="https://azure.microsoft.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/azure.svg" alt="Azure" height="66px"/> </a> 
 
 <a href="https://about.gitlab.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/gitlab.svg" alt="GitLab" height="66px"/> </a> 
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="left" alt="HTML" height ="66px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/html.svg"></a>
-
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="left" alt="CSS" height ="66px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/css.svg"></a>
-
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="66px"  src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/javascript.svg"> </a>
-
-
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="66px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/react.svg"></a>
-
-<a href="https://mysql.com/" target="_blank"> <img align="left" alt="MySQL" height ="66px" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/mysql.svg"></a>
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/git-scm.svg" align="left" alt="git" height='66px'/> </a>
 

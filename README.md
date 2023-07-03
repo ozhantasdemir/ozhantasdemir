@@ -3,7 +3,7 @@ Hi there, I'm Özhan</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Computer Science Student📚 AI Engineer💻 Music Producer🎹!
+AI Engineer💻 Music Producer🎹!
 </h2> 
 
 <div align="center">

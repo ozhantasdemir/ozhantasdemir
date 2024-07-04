@@ -3,7 +3,7 @@ Hi there, I'm Özhan</a> 👋
 </h3>
 
 <h2 align="center">
-AI Engineer💻 Music Producer🎹!
+Software Engineer
 </h2> 
 
 <div align="center">
@@ -13,7 +13,7 @@ AI Engineer💻 Music Producer🎹!
 </div>
   
 
-I'm a passionate learner who's always willing to learn and work across technologies and domains 🔍. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that, I am interested in music production 🎛️. I'm currently into Machine Learning, DevOps and MLOps 🤖.
+I'm a passionate learner who's always willing to learn and work across technologies and domains 🔍. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that, I am interested in theater, sailing and music production 🎛️. I'm currently into developing AI systems 🤖.
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ozhantasdemir/readme/main/assets/stack.gif" width="300px" height: auto/>
@@ -21,11 +21,9 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ### 🧐 More About Me:
 <br/>
 
-- 👨‍💻 &nbsp; I’m currently working at **Turkish Aerospace** as an ML Engineer
-- 🖥️ &nbsp; I am currently a member of the **Microsoft Imagine** Program
-- 🌱 &nbsp; I’m currently learning MLOps; 
+- 👨‍💻 &nbsp; I’m currently working at **Turkish Aerospace** as an Software Engineer
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made this gif👉
-- 🎵 &nbsp; I'm interested in music production
+- 🎵 &nbsp; I'm interested in music production, sailing and theater
 - 📫 &nbsp; Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ozhantasdemir/)
 - 📧 &nbsp; Contact with me via ozhantasdemir@gmail.com
 - 💬 &nbsp; Ask me about anything tech or music related, I am happy to help;
